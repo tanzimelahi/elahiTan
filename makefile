@@ -1,3 +1,3 @@
-all:image.py
+all:
     python3 line.py
     
