@@ -138,3 +138,4 @@ for ls in data:
     initialstr+=" "
 fl.write(initialstr)
 fl.close()
+print("howaboutpic.ppm")
